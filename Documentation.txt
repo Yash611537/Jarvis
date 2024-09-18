@@ -1,0 +1,21 @@
+Front-end libraries
+Bootstrap
+HTML 
+CSS
+JS 
+Bootstrap
+Textillate
+Jquery
+Particle
+Siri Wave
+
+
+BackEnd to Front end connection 
+EEL
+
+Backend libraries
+PlaySound
+pyttsx3 Text to speech
+speechRecognition
+PyAudio
+pywatkit [Search on Youtube]
